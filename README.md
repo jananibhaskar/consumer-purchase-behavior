@@ -19,17 +19,21 @@ Replaced blank entries with "0" to avoid negative impact on results.
 **Classification**
 - J48 Decision Tree: Identify products driving customer loyalty.
 - Random Forest: Classify completed vs. canceled orders.
+  
 **Regression**
 - Linear Regression: Predict future sales trends.
+  
 **Clustering**
 - K-Means Clustering: Segment customers based on demographic and purchase patterns.
+
 **Associate** 
 - Apriori: Discover cross-selling opportunities.
+  
 ## Conclusion
 - J48 Decision Tree: Smartphone are strongly associated with customer loyalty, suggesting that targeted promotions for smartphones and tablets could enhance member retention.
 - Linear Regression: 93.31% of Canceled orders were correctly classified.
 - Random Forest: RF effectively distinguished between Canceled and Completed orders, demonstrating high accuracy and reliability in its classifications.The model provides valuable insights into customer behavior and order patterns.
-- Association Rule Mining:Suggest bundling headphones with smartphones to increase sales.![image](https://github.com/user-attachments/assets/81a25836-5952-415c-ae1c-1907b2ae4dc3)
+- Association Rule Mining: Suggest bundling headphones with smartphones to increase sales.
 ## Acknowledgments
 - Dataset sourced from [Kaggle](https://www.kaggle.com).
 - Weka: [Official Website](https://www.cs.waikato.ac.nz/ml/weka/).
